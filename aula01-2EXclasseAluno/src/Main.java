@@ -13,7 +13,7 @@ public class Main {
         System.out.println("digite o numero de matricula ");
         aluno.matricula = sc.nextInt();
         do {
-            System.out.println(" ele faltou? 1-Sim 2(ou qualquer outro numero)-Nao");
+            System.out.println(" ele faltou? 1-Sim 2-Nao");
             falta = sc.nextByte();
         }while(falta ==1 || falta == 2);
         if (falta==1){
