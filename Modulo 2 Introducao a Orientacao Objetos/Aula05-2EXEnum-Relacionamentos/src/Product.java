@@ -10,7 +10,7 @@ public class Product {
         this.category = category;
     }
     @Override
-    public String toString() {// toString para usar de metodo padrao
+    public String toString() {// toString para usar de metodo padrao.
         return "Product{" +
                 "name='" + name + '\'' +
                 ", price=" + price +
