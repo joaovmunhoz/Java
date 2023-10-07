@@ -9,7 +9,7 @@ public class Main {
         Product product3 = new Product("Gloves", 15,ProductCategory.CLOTHING);
         Product product4 = new Product("Washing Podwer", 8.50,ProductCategory.CLEANING);
 
-        System.out.println(product1);//e imprima todos utilizando o método toString
+        System.out.println(product1);//e imprima todos utilizando o método toString.
         System.out.println(product2);
         System.out.println(product3);
         System.out.println(product4);
