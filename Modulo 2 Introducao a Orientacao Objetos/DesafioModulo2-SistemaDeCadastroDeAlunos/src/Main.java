@@ -39,6 +39,6 @@ public class Main {
 
 //        Exiba média das turmas;
         System.out.println("Class 1 average: "+class1.classAverage());
-        System.out.println("Class 2 average "+class2.classAverage());
+        System.out.println("Class 2 average: "+class2.classAverage());
     }
 }
