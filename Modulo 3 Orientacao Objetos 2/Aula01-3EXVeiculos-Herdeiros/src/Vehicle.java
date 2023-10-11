@@ -6,7 +6,7 @@ public class Vehicle {
     protected String model;
     //ano (int): o ano de fabricação do veículo.
     protected int year;
-// Além disso, crie um construtor que permita inicializar os atributos da classe Veiculo.
+// Além disso, crie um construtor que permita inicializar os atributos da classe Veiculo
     public Vehicle (String brand, String model, int year){
         this.brand = brand;
         this.model = model;

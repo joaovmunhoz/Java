@@ -27,7 +27,7 @@
 //Marca: Honda
 //Modelo: CB500
 //Ano: 2021
-//Cilindradas: 500
+//Cilindradas: 500.
 public class Main {
     public static void main(String[] args) {
         //5. Instancie um Veiculo, Carro e Moto e exiba a informaçao dos três nesse formato:
