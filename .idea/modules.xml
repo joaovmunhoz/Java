@@ -3,19 +3,26 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Modulo 3 Orientacao Objetos 2/Aula01-3EXVeiculos-Herdeiros/Aula01-3EXVeiculos-Herdeiros.iml" filepath="$PROJECT_DIR$/Modulo 3 Orientacao Objetos 2/Aula01-3EXVeiculos-Herdeiros/Aula01-3EXVeiculos-Herdeiros.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Modulo 4 Arrays e Collections/Aula01-4EXJodoDaVelha-Arrays/Aula01-4EXJodoDaVelha-Arrays.iml" filepath="$PROJECT_DIR$/Modulo 4 Arrays e Collections/Aula01-4EXJodoDaVelha-Arrays/Aula01-4EXJodoDaVelha-Arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/Modulo 3 Orientacao Objetos 2/Aula02-3EXAnimais-ClassesAbstratas/Aula02-3EXAnimais-ClassesAbstratas.iml" filepath="$PROJECT_DIR$/Modulo 3 Orientacao Objetos 2/Aula02-3EXAnimais-ClassesAbstratas/Aula02-3EXAnimais-ClassesAbstratas.iml" />
       <module fileurl="file://$PROJECT_DIR$/Modulo 3 Orientacao Objetos 2/Aula03-3EXCalculadora-Interfaces/Aula03-3EXCalculadora-Interfaces.iml" filepath="$PROJECT_DIR$/Modulo 3 Orientacao Objetos 2/Aula03-3EXCalculadora-Interfaces/Aula03-3EXCalculadora-Interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Modulo 4 Arrays e Collections/Aula03-EXInterfaceList/Aula03-EXInterfaceList.iml" filepath="$PROJECT_DIR$/Modulo 4 Arrays e Collections/Aula03-EXInterfaceList/Aula03-EXInterfaceList.iml" />
       <module fileurl="file://$PROJECT_DIR$/Modulo 2 Introducao a Orientacao Objetos/Aula04-2EXLivros-MetodosPadroes/Aula04-2EXLivros-MetodosPadroes.iml" filepath="$PROJECT_DIR$/Modulo 2 Introducao a Orientacao Objetos/Aula04-2EXLivros-MetodosPadroes/Aula04-2EXLivros-MetodosPadroes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Modulo 3 Orientacao Objetos 2/Aula04-3EXPolimorfismo/Aula04-3EXPolimorfismo.iml" filepath="$PROJECT_DIR$/Modulo 3 Orientacao Objetos 2/Aula04-3EXPolimorfismo/Aula04-3EXPolimorfismo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Modulo 4 Arrays e Collections/Aula04-EXInterfaceSet/Aula04-EXInterfaceSet.iml" filepath="$PROJECT_DIR$/Modulo 4 Arrays e Collections/Aula04-EXInterfaceSet/Aula04-EXInterfaceSet.iml" />
       <module fileurl="file://$PROJECT_DIR$/Aula04EX/Aula04EX.iml" filepath="$PROJECT_DIR$/Aula04EX/Aula04EX.iml" />
       <module fileurl="file://$PROJECT_DIR$/Modulo 2 Introducao a Orientacao Objetos/Aula05-2EXEnum-Relacionamentos/Aula05-2EXEnum-Relacionamentos.iml" filepath="$PROJECT_DIR$/Modulo 2 Introducao a Orientacao Objetos/Aula05-2EXEnum-Relacionamentos/Aula05-2EXEnum-Relacionamentos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Modulo 4 Arrays e Collections/Aula05-EXInterfaceMap/Aula05-EXInterfaceMap.iml" filepath="$PROJECT_DIR$/Modulo 4 Arrays e Collections/Aula05-EXInterfaceMap/Aula05-EXInterfaceMap.iml" />
       <module fileurl="file://$PROJECT_DIR$/Modulo 2 Introducao a Orientacao Objetos/Aula06-2EXCalculadora-static-final/Aula06-2EXCalculadora-static-final.iml" filepath="$PROJECT_DIR$/Modulo 2 Introducao a Orientacao Objetos/Aula06-2EXCalculadora-static-final/Aula06-2EXCalculadora-static-final.iml" />
       <module fileurl="file://$PROJECT_DIR$/Aula06EXcalculadora/Aula06EXcalculadora.iml" filepath="$PROJECT_DIR$/Aula06EXcalculadora/Aula06EXcalculadora.iml" />
       <module fileurl="file://$PROJECT_DIR$/Aula1EX/Aula1EX.iml" filepath="$PROJECT_DIR$/Aula1EX/Aula1EX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Modulo 3 Orientacao Objetos 2/DesafioMod3-SistemaDeGerenciamentoDeVeiculos/DesafioMod3-SistemaDeGerenciamentoDeVeiculos.iml" filepath="$PROJECT_DIR$/Modulo 3 Orientacao Objetos 2/DesafioMod3-SistemaDeGerenciamentoDeVeiculos/DesafioMod3-SistemaDeGerenciamentoDeVeiculos.iml" />
       <module fileurl="file://$PROJECT_DIR$/Modulo 2 Introducao a Orientacao Objetos/DesafioModulo2-SistemaDeCadastroDeAlunos/DesafioModulo2-SistemaDeCadastroDeAlunos.iml" filepath="$PROJECT_DIR$/Modulo 2 Introducao a Orientacao Objetos/DesafioModulo2-SistemaDeCadastroDeAlunos/DesafioModulo2-SistemaDeCadastroDeAlunos.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesafioSemana1IMC/DesafioSemana1IMC.iml" filepath="$PROJECT_DIR$/DesafioSemana1IMC/DesafioSemana1IMC.iml" />
       <module fileurl="file://$PROJECT_DIR$/Modulo 1 Introducao/Modulo 1 Introducao.iml" filepath="$PROJECT_DIR$/Modulo 1 Introducao/Modulo 1 Introducao.iml" />
       <module fileurl="file://$PROJECT_DIR$/Modulo 2 Introducao a Orientacao Objetos/Modulo 2 Introducao a Orientacao Objetos.iml" filepath="$PROJECT_DIR$/Modulo 2 Introducao a Orientacao Objetos/Modulo 2 Introducao a Orientacao Objetos.iml" />
       <module fileurl="file://$PROJECT_DIR$/Modulo 3 Orientacao Objetos 2/Modulo 3 Orientacao Objetos 2.iml" filepath="$PROJECT_DIR$/Modulo 3 Orientacao Objetos 2/Modulo 3 Orientacao Objetos 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Modulo 4 Arrays e Collections/Modulo 4 Arrays e Collections.iml" filepath="$PROJECT_DIR$/Modulo 4 Arrays e Collections/Modulo 4 Arrays e Collections.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/exercicios.iml" filepath="$PROJECT_DIR$/.idea/exercicios.iml" />
     </modules>
   </component>
