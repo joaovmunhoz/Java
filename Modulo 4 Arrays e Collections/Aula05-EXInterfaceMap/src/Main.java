@@ -24,7 +24,7 @@ public class Main {
         engComp.removeDis("Calculo II");
         //10. Remova um aluno.
         engComp.removeAl("87878787", "Fauso Silva");
-        //11. Imprimir detalhe da turma
+        //11. Imprimir detalhe da turma.
         System.out.println(engComp);
     }
 }
