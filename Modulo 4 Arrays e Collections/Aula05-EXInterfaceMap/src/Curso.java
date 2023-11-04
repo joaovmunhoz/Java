@@ -2,8 +2,6 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-
-
 //1. Crie uma classe Curso, com os seguintes atributos: nome, professor, disciplinas e alunos.
 public class Curso {
     private String nome;
